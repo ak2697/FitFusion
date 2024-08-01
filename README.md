@@ -1,4 +1,4 @@
-# CSE 535 - Project 5
+# Fit Fusion
 
 
 [![N|Solid|](https://i.ibb.co/ccWnRZD/banner.png) ](https://github.com/Kanvi1/CSE535-FitFusion)
@@ -82,21 +82,6 @@ cd CSE535-FitFusion
 Enable Installation from Unknown Sources:
 - **Install the APK:** Using a file manager on your mobile device, locate the transferred APK file and tap on it to initiate the installation process.
 
-
-
-
-
-
-
-
-## Contributors
-
-- Ashish Kumar
-- Vishal Kanwar
-- Kaustubh Tripathi
-- Saurav Kumar
-- Niket Mishra
-- Siri Sowmya Chitreddy
 
 
 
